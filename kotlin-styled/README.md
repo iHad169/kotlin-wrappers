@@ -8,7 +8,7 @@ Major version number of this wrapper matches that of styled-components itself.
 
 ### Installation
 
-1. `npm i @jetbrains/kotlin-css @jetbrains/kotlin-styled inline-style-prefixer styled-components`
+1. `npm i @jetbrains/kotlin-css-js @jetbrains/kotlin-styled inline-style-prefixer styled-components`
 
 2. `npm run gen-idea-libs`
 
